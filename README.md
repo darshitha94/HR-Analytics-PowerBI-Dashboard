@@ -2,7 +2,7 @@
 
 An interactive **HR Analytics Dashboard** built using **Power BI** to analyze employee attrition, satisfaction, salary, overtime, performance, and workforce trends.
 
-The project transforms HR employee data into actionable insights that can help organizations understand **why employees leave and which workforce factors are associated with higher attrition**.
+The project transforms HR employee data into actionable insights to help understand **employee attrition patterns and the workforce factors associated with employee turnover**.
 
 ---
 
@@ -18,7 +18,7 @@ The dashboard helps answer questions such as:
 * Does overtime affect employee attrition?
 * How does salary level relate to attrition?
 * Are there differences in attrition between male and female employees?
-* How does tenure affect employee attrition?
+* How does tenure relate to employee attrition?
 
 ---
 
@@ -26,7 +26,7 @@ The dashboard helps answer questions such as:
 
 * **Power BI** — Dashboard development and data visualization
 * **DAX** — Measures, KPIs, and calculations
-* **Power Query** — Data transformation and cleaning
+* **Power Query** — Data transformation and data cleaning
 * **Microsoft Excel** — Data source and initial analysis
 
 ---
@@ -39,7 +39,7 @@ The main project page providing a high-level view of employee attrition, major f
 
 ### 2. Executive Overview
 
-Provides an overall view of key HR KPIs such as:
+Provides an overall view of key HR KPIs, including:
 
 * Total Employees
 * Active Employees
@@ -61,7 +61,7 @@ Analyzes employee attrition across different workforce dimensions, including:
 
 ### 4. Employee Satisfaction
 
-Examines the relationship between employee satisfaction and attrition using:
+Examines employee satisfaction and its relationship with attrition using:
 
 * Job Satisfaction
 * Environment Satisfaction
@@ -70,7 +70,7 @@ Examines the relationship between employee satisfaction and attrition using:
 
 ### 5. Salary & Performance
 
-Analyzes how compensation and performance-related factors are associated with employee attrition.
+Analyzes compensation and performance-related factors and their relationship with employee attrition.
 
 ### 6. Employee Details
 
@@ -94,11 +94,11 @@ Employees with a **satisfaction score of 3** represent the highest attrition gro
 
 ### 3. Tenure
 
-Employees who have been with the company for **around one year** show higher attrition compared with employees with longer tenure.
+Employees with **1 year at the company account for the highest number of attrition cases** in the analysis.
 
 ### 4. Overtime
 
-Employees working overtime show a substantially higher attrition rate, reaching approximately **30.53%** in the analysis.
+Employees working overtime have an attrition rate of approximately **30.53%**, indicating a potential relationship between overtime and employee turnover.
 
 ### 5. Salary
 
@@ -118,8 +118,8 @@ The analysis shows an attrition rate of approximately:
 Based on the analysis, organizations could consider:
 
 * Investigating workload and overtime among employees.
-* Improving employee support during the first year of employment.
-* Monitoring satisfaction levels and identifying employees with declining satisfaction.
+* Improving employee support and engagement during the first year of employment.
+* Monitoring employee satisfaction levels and identifying groups with higher attrition.
 * Reviewing compensation for lower-paid employee groups.
 * Conducting deeper analysis of attrition within high-risk departments and job roles.
 * Developing targeted employee retention strategies based on workforce data.
@@ -128,7 +128,7 @@ Based on the analysis, organizations could consider:
 
 ## 📸 Dashboard Preview
 
-### Executive Summary
+### Executive Summary & Recommendations
 
 ![Executive Summary](Dashboard%20screenshots/01_Executive_Summary.png)
 
@@ -186,4 +186,3 @@ Based on the analysis, organizations could consider:
 ## 📌 Conclusion
 
 This project demonstrates how **Power BI can be used to transform HR data into an interactive analytical solution**, identify employee attrition patterns, and generate data-driven recommendations to support employee retention and workforce decision-making.
-
