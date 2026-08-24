@@ -98,7 +98,7 @@ Employees who have been with the company for **around one year** show higher att
 
 ### 4. Overtime
 
-Employees working overtime show a substantially higher attrition rate, reaching approximately **53.59%** in the analysis.
+Employees working overtime show a substantially higher attrition rate, reaching approximately **30.53%** in the analysis.
 
 ### 5. Salary
 
